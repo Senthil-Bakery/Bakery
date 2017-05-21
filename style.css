@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.member_frm{
+	width:50%;
+}
+
+div {
+	margin-bottom: 0.5em;
+}
+.row{
+	clear:both;
+}
+.col{
+	float:left;
+}
+label {
+	width: 6em;
+	float: left;
+	margin-right: 0.5em;
+	text-align: right;
+}
+#Reset {
+	margin-left: 1em;
+}
+
+.error_msg{
+	color:red;
+	font-size:88%;
+}
+#pwd_msg, #zip_msg
+{
+	margin-left: 5px;
+}
